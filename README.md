@@ -53,7 +53,7 @@ Atualmente, estou trabalhando em diversas tecnologias, incluindo **Node.js**, **
 
 Você pode entrar em contato comigo através do meu e-mail:
 
-- **E-mail**: freitas.edgard1991@gmail.com
+- **E-mail**: contato@edgardfreitas.com.br
 
 ---
 
