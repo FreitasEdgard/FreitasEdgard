@@ -1,6 +1,7 @@
 # Olá, sou Edgard Freitas 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Analista+em+Desenvolvimento+de+Sistemas+%F0%9F%91%A9%EF%B8%8F.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Analista+de+Sistemas)
+
 
 ## Sobre mim
 
